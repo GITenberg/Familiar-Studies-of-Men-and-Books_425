@@ -1,0 +1,43 @@
+_repo: Familiar-Studies-of-Men-and-Books_425
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+description: 'A companion to his earlier Virginibus Puerisque, this 1882 collection
+  is the more critical volume of the two. &#147;The readings of a literary vagrant,
+  according to the author, these conversational essays read more like short stories
+  about their subjects. Included among the nine pieces are, &#147;Victor Hugo''s Romances,
+  &#147;Some Aspects of Robert Burns, &#147;Henry David Thoreau: His Character and
+  Opinions, and &#147;Charles of Orleans.'
+gutenberg_issued: '1996-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '425'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Knox, John, approximately 1514-1572'
+- !lcsh 'Hugo, Victor, 1802-1885'
+- !lcsh 'Whitman, Walt, 1819-1892'
+- !lcsh 'Pepys, Samuel, 1633-1703'
+- !lcc 'PR'
+- !lcsh 'Thoreau, Henry David, 1817-1862'
+- !lcsh 'Literature -- History and criticism'
+- !lcsh 'Villon, François, 1431-1463'
+- !lcsh 'Burns, Robert, 1759-1796'
+- !lcc 'PN'
+- !lcsh 'Yoshida, Shoin, 1830-1859'
+- GITenberg
+tableOfContents: Victor Hugo's romances -- Some aspects of Robert Burns -- Walt Whitman
+  -- Henry David Thoreau -- Yoshida-Torajiro -- François Villon, student, poet, and
+  house-breaker -- Charles of Orleans -- Samuel Pepys -- John Knox and women.
+title: Familiar Studies of Men and Books
+url: http://www.gutenberg.org/ebooks/425
