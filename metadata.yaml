@@ -1,5 +1,8 @@
 _repo: Familiar-Studies-of-Men-and-Books_425
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stevenson, Robert Louis
@@ -15,6 +18,8 @@ description: 'A companion to his earlier Virginibus Puerisque, this 1882 collect
   about their subjects. Included among the nine pieces are, &#147;Victor Hugo''s Romances,
   &#147;Some Aspects of Robert Burns, &#147;Henry David Thoreau: His Character and
   Opinions, and &#147;Charles of Orleans.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/425#Familiar-Studies-of-Men-and-Books
 gutenberg_issued: '1996-02-01'
 gutenberg_type: Text
 identifiers:
